@@ -1,16 +1,77 @@
-## Hi there 👋
+<!-- Moein Doust's GitHub Profile README -->
 
-<!--
-**moeindoust/moeindoust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Moein Doust! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  🎓 <b>Industrial Engineering Graduate</b> <br>
+  🤖 Aspiring <b>Data Scientist</b><br>
+  🏫 Starting the <b>Comprehensive Data Science & AI program</b> at University of Tehran
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&width=435&lines=Turning+data+into+actionable+insights!;Lifelong+learner+%7C+Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 📊 عاشق حل مسائل و بهینه‌سازی با داده‌ها  
+- 🛠️ ابزارها و داشبوردهای تحلیلی می‌سازم که واقعاً کاربردی باشن  
+- 🌱 همیشه دنبال یادگیری چیزای جدید و چالش‌های تازه‌ام  
+- 🧩 طرفدار نظم، خلاقیت و کار تیمی
+
+---
+
+## 💡 Tech Stack & Skills
+
+<div align="center">
+
+  <img alt="SQL" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img alt="Odoo" src="https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white"/>
+</div>
+
+---
+
+## 📂 Featured Projects
+
+- 🏨 <b>Maintenance Management Software (Odoo 17)</b>  
+  <i>Internship project:</i> Developed a software solution for hotel asset tracking using Odoo 17
+
+- 📊 <b>Data Analysis Projects</b>  
+  Built insightful Power BI dashboards & Python-based analyses for real-world datasets
+
+- 🤖 <b>Machine Learning Mini-projects</b>  
+  Hands-on ML: classification & regression models, just for fun (& science!)
+
+---
+
+## 🔗 Where to Find Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/moeindoust/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://www.kaggle.com/moeindoust"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge" /></a>
+</p>
+
+---
+
+## ✨ Fun Facts
+
+- 🚲 عاشق دوچرخه‌سواری و طبیعت‌گردی‌ام!
+- 🎮 گاهی اوقات با دیتا بازی می‌کنم، گاهی هم با پلی‌استیشن!
+- 🧠 باور دارم: <b>«یادگیری هیچ‌وقت تموم نمیشه!»</b>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moeindoust&show_icons=true&theme=tokyonight" alt="Moein's GitHub stats" width="50%"/>
+</p>
+
+<!-- Let’s turn data into stories! -->
