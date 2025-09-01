@@ -1,30 +1,27 @@
 <!-- Moein Doust's GitHub Profile README -->
 
-<h1 align="center">Hi there, I'm Moein Doust! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/></h1>
+<h1 align="center">Hi there, I'm MohammadMoein Doust! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
 
 <p align="center">
   🎓 <b>Industrial Engineering Graduate</b> <br>
-  🔍 Aspiring <b>Data Scientist</b><br>
-  🏫 Studying in the <b>Comprehensive Data Science & AI program</b> at University of Tehran
+  🤖 Aspiring <b>Data Scientist</b><br>
+  🏫 Starting the <b>Comprehensive Data Science & AI program</b> at University of Tehran
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&width=435&lines=Turning+data+into+actionable+insights!;Lifelong+learner+%7C+Problem+Solver" alt="Typing SVG"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- Passionate about turning data into actionable insights  
-- Experienced in building analytical tools & dashboards that drive real impact  
-- Lifelong learner, always curious to explore new technologies and solve complex problems  
-- Sometimes I play with data, sometimes with my PlayStation! 🎮
-
----
-
-## 🎯 My Goals
-
-- <b>Start my career</b> as an <span style="color:#CC2927">ERP Reports Analyst</span> (SQL & Power BI)
-- <b>Progress</b> into a <span style="color:#3776AB">Data Analyst</span> role (Python, statistics, visualization)
-- <b>Advance</b> to <span style="color:#F7931E">Data Scientist</span>, applying machine learning to real-world problems
-- <b>Build impactful projects</b> that create measurable value for organizations
+- 📊 Passionate about problem-solving and optimization through data  
+- 🛠️ I build analytical tools and dashboards that are truly practical  
+- 🌱 Always curious to learn new things and embrace fresh challenges  
+- 🧩 Big fan of structure, creativity, and teamwork  
 
 ---
 
@@ -37,9 +34,8 @@
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-5A7BA7?style=for-the-badge&logo=seaborn&logoColor=white"/>
-  <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logo=xgboost&logoColor=white"/>
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white"/>
   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img alt="Odoo" src="https://img.shields.io/badge/Odoo-875A7B?style=for-the-badge&logo=odoo&logoColor=white"/>
 </div>
@@ -48,26 +44,37 @@
 
 ## 📂 Featured Projects
 
-- **Maintenance Management Software (Odoo 17)**  
-  <sub>Internship project: Developed a solution for hotel asset tracking using Odoo 17</sub>
+- 🏨 <b>Maintenance Management Software (Odoo 17)</b>  
+  <i>Internship project:</i> Developed a software solution for hotel asset tracking using Odoo 17
 
-- **Data Analysis Projects**  
-  <sub>Built insightful Power BI dashboards & Python-based analyses for real-world datasets</sub>
+- 📊 <b>Data Analysis Projects</b>  
+  Built insightful Power BI dashboards & Python-based analyses for real-world datasets
 
-- **Machine Learning Mini-projects**  
-  <sub>Hands-on ML: classification & regression models with Python</sub>
+- 🤖 <b>Machine Learning Mini-projects</b>  
+  Hands-on ML: classification & regression models, just for fun (& science!)
 
 ---
 
-## 🌐 Connect with Me
+## 🔗 Where to Find Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/moeindoust/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="https://www.kaggle.com/moeindoust"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://t.me/MohammadMoeinDoust"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ---
 
+## ✨ Fun Facts
+
+- 🎸 Love music and playing guitar  
+- 🎮 Sometimes I play with data, sometimes with PlayStation  
+- 🧠 I truly believe: <b>“Learning never ends!”</b>  
+
+---
+
 <p align="center">
-  <i>“Turning data into actionable insights, one project at a time.”</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=moeindoust&show_icons=true&theme=tokyonight" alt="Moein's GitHub stats" width="50%"/>
 </p>
+
+<!-- Let’s turn data into stories! -->
